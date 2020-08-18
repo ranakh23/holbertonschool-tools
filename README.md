@@ -1,1 +1,1 @@
-This file is mandatory in all horberton school projects
+**This file is mandatory in all horberton school projects**
