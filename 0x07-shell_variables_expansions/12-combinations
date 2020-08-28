@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} --exclude={oo} $'\n'
+echo {a..z}{a..z}$'\n'| tr -d "oo"
