@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(cat quote)" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+printf "$(read in)" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
